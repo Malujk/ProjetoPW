@@ -1,3 +1,6 @@
+body{
+    background-color: red;
+}
 #main{
     width: 100vw;
     height: 100vh;

@@ -1,5 +1,5 @@
 body{
-    background-color: red;
+    background-color: white;
 }
 #main{
     width: 100vw;
@@ -10,14 +10,14 @@ body{
 }
 
 #conteudo{
-    width: 60vw;
-    height: 70vh;
+    width: 30vw;
+    height: 50vh;
     background-color:rgba(255, 255, 255, 0.5);
     margin-top: 100px;
-    margin-left:20vw ;
+    margin-left:35vw ;
     position: absolute;
 }
 
 p{
-    color:red
+    color: black
 }

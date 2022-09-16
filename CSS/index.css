@@ -1,7 +1,8 @@
-body{
+body {
     background-color: white;
 }
-#main{
+
+#main {
     width: 100vw;
     height: 100vh;
     background-image: url('../Imagens/img principal.jpg');
@@ -9,20 +10,28 @@ body{
     background-size: 100vw 100vh;
 }
 
-#conteudo{
+#conteudo {
     width: 30vw;
     height: 50vh;
-    background-color:rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.5);
     margin-top: 100px;
-    margin-left:35vw ;
+    margin-left: 35vw;
     position: absolute;
 }
 
-p{
+p {
     color: black
 }
 
-#bot{
-    margin-left:23vw ;
+#bot {
+
+    position: absolute !important;
+    bottom: 0px;
+    margin-bottom: 5px;
+}
+
+.bot {
+    float: right !important;
+    margin-right: 100px;
 
 }

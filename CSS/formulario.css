@@ -19,3 +19,18 @@ body{
     border-radius: 30px;
 
 }
+
+#titulo{
+    font-size: 23px;
+    color:black;
+    text-shadow: 0.5px 0.5px red;
+    
+}
+
+#se{
+
+    font-size: 23px;
+    color:black;
+    text-shadow: 0.5px 0.5px black;
+
+}
